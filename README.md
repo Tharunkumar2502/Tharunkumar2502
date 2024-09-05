@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharun Dendi</h1>
-<h3 align="center">A passionate Full stack developer from Montreal, Canada</h3>
+<h3 align=>A passionate Full stack developer from Montreal, Canada. Pursuing PG Diploma in IT</h3>
 
 - 🌱 I’m currently learning **Java and C#**
 
